@@ -6,8 +6,9 @@
 # Variables are case sensitive
 # Variables can be reassigned
 myVariable = 5 # Assign the integer value of 5 to myVariable
-print(myVariable) # prints myVariable to the console
+myVariableTimesTen = myVariable * 10
+print(myVariableTimesTen) # prints myVariable to the console
 
 # Variables can be reassigned
-myVariable = 10 # Assign the integer value of 10 to myVariable
-print(myVariable) # prints myVariable to the console
+#myVariable = 10 # Assign the integer value of 10 to myVariable
+#print(myVariable) # prints myVariable to the console
