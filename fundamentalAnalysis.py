@@ -1,6 +1,4 @@
 # Connor Hunter
-# 10/8/23
-# 
 
 import requests
 ticker = 'AAPL'

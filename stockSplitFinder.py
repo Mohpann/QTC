@@ -1,5 +1,4 @@
 # Connor Hunter
-# 10/8/23
 # Script to find stocks doing a stock split within a given time frame
 
 import requests
